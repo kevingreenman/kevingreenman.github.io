@@ -9,12 +9,6 @@ author_profile: true
   You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
 {% endif %}
 
-#{% include base_path %}
-#
-#{% for post in site.publications reversed %}
-  #{% include archive-single.html %}
-#{% endfor %}
-
 # Forthcoming
 1.	Kevin P. Greenman, Ava P. Soleimany, and Kevin K. Yang, “Benchmarking Uncertainty Quantification for Protein Engineering”. (In preparation).
 
