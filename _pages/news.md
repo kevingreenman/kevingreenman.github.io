@@ -16,7 +16,7 @@ I received the Rock Award from the MIT ChemE department for my contributions and
 * [Green group website](https://greengroup.mit.edu/news/green-group-members-acknowledged-cheme-department-awards)
 
 ### ChemE Teach-Off (April 16, 2021)
-I won a small teaching competition among graudate students and postdocs in the MIT ChemE department.
+I won a small teaching competition among graduate students and postdocs in the MIT ChemE department.
 * [Gómez-Bombarelli group website](http://gomezbombarelli.mit.edu/news/kevin-wins-mit-cheme-teach-competition)
 
 ### NSF GRFP (March 23, 2021)
