@@ -8,11 +8,12 @@ author_profile: true
 ### MIT Chemical Engineering Department
 Graduate Teaching Assistant: Machine Learning for Molecular Engineering (10.C01/10.C51)
 * Faculty: Profs. Connor Coley, Ernest Fraenkel, and Rafael Gómez-Bombarelli
-* Coordinated with one other TA to prepare and grade homework assignments, hold weekly office hours, and manage all course logistics for 60 students (undergraduate and graduate)
+* Coordinated with one other TA to prepare and grade [homework assignments](https://github.com/vikram-sundar/ML4MolEng_Spring2022), hold weekly office hours, and manage all course logistics for 60 students (undergraduate and graduate)
 
 ### MIT Teaching + Learning Lab
 TA Days Training (January 2022)
 * Learned strategies to support student well-being and to facilitate effective office hours
+
 Grad Teaching Development Tracks Certificate Program
 * Inclusive Teaching Track (May 2021); Microteaching Track (March 2021); Lesson Planning Track (January 2021); Subject Design Track (June 2020)
 
