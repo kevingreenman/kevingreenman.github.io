@@ -12,8 +12,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /files/Greenman_Kevin_CV.pdf
+  - title: "Mentorship"
+    url: /mentorship/
 
   - title: "News"
     url: /news/
+
+  - title: "CV"
+    url: /files/Greenman_Kevin_CV.pdf
+

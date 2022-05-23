@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "Teaching Experience and Pedagogical Training"
 permalink: /teaching/
 author_profile: true
 ---
-
-# Teaching Experience and Pedagogical Training
 
 ### MIT Chemical Engineering Department
 Graduate Teaching Assistant: Machine Learning for Molecular Engineering (10.C01/10.C51)
@@ -30,20 +28,3 @@ Instructional Aide – Fluid Mechanics (January – April 2018, January – Apri
 Study Group Facilitator – Organic Chemistry II – 2 semesters (January – December 2017)
 * Facilitated a two-hour weekly study session to help thirteen group members improve understanding of material
 * Attended workshops on evidence-based teaching and learning techniques
-
-
-# Mentorship Experience 
-
-### Undergraduate Research Opportunity Program (UROP)
-* Cale Gregory (Spring 2022)
-* Elenna Kim (Spring 2022)
-
-### Chemical Engineering Application Mentorship Program (ChAMP) (Fall 2020, 2021)
-* Provided application feedback to students from underrepresented backgrounds applying to the chemical engineering Ph.D. program at MIT
-
-### Netpals (January – May 2020)
-* Mentored a student from a local middle school by practicing email etiquette and discussing science
-
-### Graduate Application Assistance Program (GAAP) – Office of Graduate Education (Fall 2019)
-* Provided application feedback to a student from an underrepresented background applying to a Ph.D. program at the Institute
-
