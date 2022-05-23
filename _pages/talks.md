@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: ""
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
 
-# Invited Talks
+### Invited 
 1.	Kevin P. Greenman, “Message-Passing Neural Networks for Molecular Property Prediction Using Chemprop”, nanoHUB Hands-on Data Science and Machine Learning Training Series (Virtual), April 2022. ([nanoHUB](https://nanohub.org/resources/36082) \| [YouTube](https://www.youtube.com/watch?v=TeOl5E8Wo2M))
 2.	Kevin P. Greenman, “Fast, Accurate, and Generalizable Prediction of Molecular Optical Properties from Multi-fidelity Data”, ARPA-E DIFFERENTIATE Meeting, Carnegie Mellon University (Virtual), March 2022.
 3.	Charles McGill, Michael Forsuelo, and Kevin Greenman, “An Introduction to Chemprop”, Enko (Virtual), February 2022.
 
-# Contributed Talks
+### Contributed 
 1.	Kevin P. Greenman, William H. Green, and Rafael Gómez-Bombarelli. “Multi-Fidelity Deep Learning and Active Learning for Molecular Optical Properties” International Symposium on Molecular Spectroscopy. Urbana, IL, June 2022 (Accepted).
 2.	Kevin P. Greenman, William H. Green, and Rafael Gómez-Bombarelli. “Transfer Learning for Prediction of Absorption and Emission Spectra from Multi-fidelity Data”. American Institute of Chemical Engineers Annual Meeting. Boston, MA, November 2021.
 3.	Kevin P. Greenman, Simon Axelrod, William H. Green, and Rafael Gómez-Bombarelli. “Predicting absorption spectra of molecular dyes using deep learning”. American Chemical Society Spring Meeting. Virtual, April 2021.
