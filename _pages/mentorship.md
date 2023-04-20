@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ### Undergraduate Research Opportunity Program (UROP)
+* Temujin Orkhon (Spring 2023)
+* Ray Wang (Spring 2023)
+* Alor Sahoo (Fall 2022)
 * Cale Gregory (Spring 2022)
 * Elenna Kim (Spring 2022)
 
