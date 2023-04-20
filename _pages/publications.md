@@ -9,8 +9,12 @@ author_profile: true
   You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
 {% endif %}
 
-### Forthcoming
-1.	Kevin P. Greenman, Ava P. Soleimany, and Kevin K. Yang, “Benchmarking Uncertainty Quantification for Protein Engineering”. (In preparation).
+(\*) denotes equal contribution
+
+### Submitted / Preprint / Under Review
+1.	Kevin P. Greenman, Ava P. Amini, and Kevin K. Yang, “Benchmarking Uncertainty Quantification for Protein Engineering”. bioRxiv, DOI: 10.1101/2023.04.17.536962. (Submitted).
+2.	Brent A. Koscher\*, Richard B. Canty\*, Matthew A. McDonald\*, Kevin P. Greenman, Charles J. McGill, Camille L. Bilodeau, Wengong Jin, Haoyang Wu, Florence H. Vermeire, Brooke Jin, Travis Hart, Timothy Kulesza, Shih-Cheng Li, Tommi S. Jaakola, Regina Barzilay, Rafael Gómez-Bombarelli, William H. Green, and Klavs F. Jensen. “Autonomous, multi-property-driven molecular discovery: from predictions to measurements and back”. DOI: 10.26434/chemrxiv-2023-r7b01. (Submitted).
+3.	Akshay Subramanian\*, Kevin P. Greenman\*, Alexis Gervaix, Tzuhsiung Yang, and Rafael Gómez-Bombarelli. “Automated patent extraction powers generative modeling in focused chemical spaces”. arXiv:2303.08272. (Submitted).
 
 ### Peer-Reviewed Journals
 1.	Simon Axelrod, Daniel Schwalbe-Koda, Somesh Mohapatra, James Damewood, Kevin P. Greenman, and Rafael Gómez-Bombarelli, “Learning Matter: Materials Design with Machine Learning and Atomistic Simulations”. Acc. Mater. Res. (2022), 3(3), 343–357. DOI: 10.1021/accountsmr.1c00238. ([Paper](https://pubs.acs.org/doi/10.1021/accountsmr.1c00238))
