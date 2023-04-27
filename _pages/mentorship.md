@@ -2,7 +2,7 @@
 layout: archive
 title: "Mentorship Experience"
 permalink: /mentorship/
-author_profile: true
+author_profile: false
 ---
 
 ### Undergraduate Research Opportunity Program (UROP)

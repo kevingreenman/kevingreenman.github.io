@@ -2,7 +2,7 @@
 layout: archive
 title: "Posters"
 permalink: /posters/
-author_profile: true
+author_profile: false
 ---
 
 1.	Kevin P. Greenman, Ava P. Soleimany, and Kevin K. Yang, “Benchmarking Uncertainty Quantification for Protein Engineering”. International Conference on Learning Representations – Machine Learning for Drug Discovery Workshop. Virtual, April 2022. ([Poster](https://kevingreenman.github.io/files/2022_iclr_mldd_poster.pdf))
