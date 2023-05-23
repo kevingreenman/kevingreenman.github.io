@@ -13,4 +13,4 @@ In addition to my major courses, I am studying relevant knowledge on C++ program
 
 As someone who is not particularly outgoing, the few sports that I enjoy is table tennis. In terms of music, I have recently developed an interest in Beijing opera, but what makes for a stark contrast is that I also enjoy listening to hip-hop and rock music.
 
-This webpage references my idol in research field Kevin Greenman.
+This webpage references Kevin Greenman,my idol in research field.
