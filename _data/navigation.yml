@@ -6,12 +6,3 @@ main:
   - title: "CV"
     url: files/LYZ_CV.pdf
 
-# default
-'''
-main:
-  - title: "News"
-    url: /news/
-
-  - title: "CV"
-    url: files/LYZ_CV.pdf
-'''
