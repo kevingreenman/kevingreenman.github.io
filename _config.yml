@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin P. Greenman"
+title                    : "Yuzhe's Academic-Hub"
 title_separator          : "-"
-name                     : &name "Kevin P. Greenman"
-description              : &description "Ph.D. Student in Chemical Engineering and Computation"
-url                      : https://kevingreenman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "YuZhe-Li"
+description              : &description "北京航空航天大学 空间与环境学院 环境工程专业"
+url                      : https://donkeyeee.github.io/YuzheLi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kevingreenman.github.io"
+repository               : "YuzheLi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin P. Greenman"
-  avatar           : "Kevin-2-min-crop.jpeg"
-  bio              : "Ph.D. Candidate in Chemical Engineering and Computation @ MIT"
-  location         : "Cambridge, Massachusetts, USA"
+  name             : "Li-Yuzhe"
+  avatar           : "DNK.jpg"
+  bio              : "北京航空航天大学 \n空间与环境学院 环境工程专业"
+  location         : "北京市昌平区, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=1zbj3psAAAAJ&hl=en"
+  googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Kevin-Greenman-2"
+  researchgate     : https://www.researchgate.net/profile/Yuzhe-Li-13?ev=hdr_xprf 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kevingreenman"
+  github           : "donkeyeee"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "kevinpgreenman"
-  orcid            : "https://orcid.org/0000-0002-6466-1401"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "kevinpgreenman"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
