@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "News"
-    url: /news/
+    url: /news/new.html
 
   - title: "CV"
     url: files/LYZ_CV.pdf

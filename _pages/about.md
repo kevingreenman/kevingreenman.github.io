@@ -12,3 +12,5 @@ I am an undergraduate student studying at Beihang University in Beijing, with a 
 In addition to my major courses, I am studying relevant knowledge on C++ programming and front-end web development.But my most familiar programming language is Python, and I have implemented models for my project using Python. I have also studied Statistical learning methods, C programming language, and Machine Learning (also known as "the Watermelon Book").
 
 As someone who is not particularly outgoing, the few sports that I enjoy is table tennis. In terms of music, I have recently developed an interest in Beijing opera, but what makes for a stark contrast is that I also enjoy listening to hip-hop and rock music.
+
+This webpage references my idol in research field Kevin Greenman.
