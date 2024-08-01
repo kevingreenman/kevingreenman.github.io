@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kevin P. Greenman"
 title_separator          : "-"
 name                     : &name "Kevin P. Greenman"
-description              : &description "Ph.D. Student in Chemical Engineering and Computation"
+description              : &description "Assistant Professor in Chemistry & Chemical Engineering"
 url                      : https://kevingreenman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevingreenman.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kevin P. Greenman"
   avatar           : "Kevin-2-min-crop.jpeg"
-  bio              : "Ph.D. Candidate in Chemical Engineering and Computation @ MIT"
-  location         : "Cambridge, Massachusetts, USA"
+  bio              : "Assistant Professor in Chemistry & Chemical Engineering @ CatholicTech"
+  location         : "Castel Gandolfo, Italy"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1zbj3psAAAAJ&hl=en"

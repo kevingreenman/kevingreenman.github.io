@@ -20,4 +20,4 @@ author_profile: true
 7.	Kevin Greenman and Peilin Liao. “Computational Catalysis: Creating a User-Friendly Tool for Research and Education”. Purdue Summer Undergraduate Research Fellowship (SURF) Symposium. West Lafayette, IN, August 2018.
 
 ### Workshops
-1.	Kevin P. Greenman, Haoyang Wu, and William H. Green. “Chemprop: Datasets and Machine Learning Software for Chemical Property Prediction”. Division of Catalysis Science and Technology (CATL) – Open Source Software Workshops. American Chemical Society Fall Meeting. San Francisco, CA, August 2023. (Accepted).
+1.	Kevin P. Greenman, Haoyang Wu, and William H. Green. “Chemprop: Datasets and Machine Learning Software for Chemical Property Prediction”. Division of Catalysis Science and Technology (CATL) – Open Source Software Workshops. American Chemical Society Fall Meeting. San Francisco, CA, August 2023.

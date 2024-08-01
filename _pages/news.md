@@ -5,6 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
+### Catholic Institute of Technology (August 1, 2024)
+I've started my appointment as an assistant professor of chemistry and chemical engineering at CatholicTech!
+
 ### Eli Lilly Internship (May 24, 2022)
 I'm excited to spend the next 12 weeks interning with Eli Lilly in Indianapolis!
 
