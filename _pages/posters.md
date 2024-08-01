@@ -5,7 +5,7 @@ permalink: /posters/
 author_profile: true
 ---
 
-1.	Kevin P. Greenman, Ava P. Amini, and Kevin K. Yang, “Benchmarking Uncertainty Quantification for Protein Engineering”. American Chemical Society Fall Meeting. San Francisco, CA, August 2023. (Accepted).
+1.	Kevin P. Greenman, Ava P. Amini, and Kevin K. Yang, “Benchmarking Uncertainty Quantification for Protein Engineering”. American Chemical Society Fall Meeting. San Francisco, CA, August 2023.
 2.	David Graff, Kevin P. Greenman, Oscar Wu, Shih-Cheng Li, and William H. Green. “Chemprop New Upcoming Features and Updates”. Machine Learning for Pharmaceutical Discovery and Synthesis Consortium Meeting. Cambridge, MA. May 2023.
 3.	Kevin P. Greenman, Ava P. Soleimany, and Kevin K. Yang, “Benchmarking Uncertainty Quantification for Protein Engineering”. International Conference on Learning Representations – Machine Learning for Drug Discovery Workshop. Virtual, April 2022. ([Poster](https://kevingreenman.github.io/files/2022_iclr_mldd_poster.pdf))
 4.	Charles McGill, Kevin Greenman, David Graff, Oscar Wu, and William H. Green. “Chemprop v1.5.0 New Features and Updates”. Machine Learning for Pharmaceutical Discovery and Synthesis Consortium Meeting. Cambridge, MA. April 2022.
