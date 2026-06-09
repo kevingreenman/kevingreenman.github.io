@@ -87,15 +87,20 @@ Symmetry-Constrained Generation of Diverse Low-Bandgap Molecules with Monte Carl
 Benchmarking Uncertainty Quantification for Protein Engineering.
 *ICLR Machine Learning for Drug Discovery (MLDD) Workshop* **2022**.
 
-<!-- ## Preprint / Submitted / Under Review -->
+## Preprint / Submitted / Under Review
 
-## In Preparation
+[Preprint](https://arxiv.org/abs/2605.03205){: .btn .btn--primary}
+Aritra Roy, Kevin Shen, Andrew MacBride, Awwal Oladipupo, Mudassra Taskeen, Wojtek Treyde,..., **Kevin P. Greenman**, ..., Ian Foster, Ben Blaiszik.
+From Knowledge to Action: Outcomes of the 2025 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry.
+*arXiv preprint* **2026**.
+
+<!-- ## In Preparation
 
 **Kevin P. Greenman**, Temujin Orkhon, William H. Green, Rafael Gómez-Bombarelli.
 Multi-Fidelity Deep Learning for Data-Efficient Molecular Property Models from Experimental and Computational Data. *(In preparation).*
 
 **Kevin P. Greenman**, Rui-Xi Wang, Juno Nam, Akshay Subramanian, Jurgis Ruza, Joonyoung F. Joung, Minhi Han, William H. Green, Sungnam Park, Rafael Gómez-Bombarelli.
-Benchmarking predictions of near-infrared absorption with physics-based and machine learning methods. *(In preparation).*
+Benchmarking predictions of near-infrared absorption with physics-based and machine learning methods. *(In preparation).* -->
 
 ## Other
 

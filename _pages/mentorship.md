@@ -8,8 +8,8 @@ author_profile: true
 ## Mentorship
 
 ### CatholicTech Undergraduate Students
-* Mary Holler (Summer 2025 - Present) - *Capstone Project*
-* Lauren Mitchell (Summer 2025 - Present) - *Research Thesis Project*
+* Lauren Mitchell (Summer 2025, Fall 2025, Winter 2026, Spring 2026) -- Research Thesis Project (*Software Development and Machine Learning for Optical Property Prediction*)
+* Mary Holler (Summer 2025, Fall 2025, Winter 2026) -- Capstone Project (*In the Know: A Fertility Awareness Method Tracking App*)
 
 ### MIT Undergraduate Research Opportunity Program (UROP)
 * Joel Manu (IAP 2024, Spring 2024, Summer 2024)

@@ -40,6 +40,10 @@ author_profile: true
 
 ## Contributed Talks
 
+**Kevin P. Greenman**.
+"Artificial Intelligence, Scientific Practice, and Intellectual Virtue".
+*Pontifical University of Saint Thomas Aquinas (Angelicum) Spring 2026 Project for Science and Religion Conference -- Artificial Intelligence: A Tool for Virtue?*, Rome, Italy (March 2026).
+
 **Kevin P. Greenman**, Rui-Xi Wang, Joonyoung F. Joung, Minhi Han, William H. Green, Sungnam Park, Rafael Gómez-Bombarelli.
 "Toward Accurate Prediction of Near-Infrared Absorption: Physics-Based Calculations, Machine Learning, and the Crucial Role of Data".
 *AIChE Annual Meeting*, Boston, MA, USA (November 2025).

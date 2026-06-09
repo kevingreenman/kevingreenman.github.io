@@ -8,7 +8,7 @@ author_profile: true
 ### Catholic Institute of Technology
 Instructor (August 2024 -- Present)
 * General Chemistry (Fall 2025) - *planned from scratch*
-* Seminar in Research + Engineering Practice (Fall 2024, Winter 2025, Spring 2025, Fall 2025)
+* Seminar in Research + Engineering Practice (Fall 2024, Winter 2025, Spring 2025, Fall 2025, Winter 2026, Spring 2026)
 * Differential + Integral Calculus (Fall 2024) - *planned from scratch*
 
 ### MIT Chemical Engineering Department
